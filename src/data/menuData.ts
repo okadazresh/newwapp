@@ -477,11 +477,11 @@ export const menuItems: MenuItem[] = [
   {
     id: 'kentucky-chicken',
     name: {
-      en: 'Kentucky Fried Chicken',
-      ar: 'دجاج كنتاكي مقلي',
-      ckb: 'مریشكی سوراوی کەنتاکی'
+      en: 'Kentucky 4 pieces',
+      ar: '٤ قطع كنتاكي',
+      ckb: '٤ پارچە کەنتاکی'
     },
-    price: 4000,
+    price: 6000,
     image: 'https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg',
     category: 'kentucky',
     description: {
@@ -493,17 +493,17 @@ export const menuItems: MenuItem[] = [
   {
     id: 'kentucky-wings',
     name: {
-      en: 'Kentucky Wings',
-      ar: 'أجنحة كنتاكي',
-      ckb: 'باڵی کەنتاکی'
+      en: 'Kentucky 6 pieces',
+      ar: '٦ قطع كنتاكي',
+      ckb: '٦ پارچە کەنتاکی'
     },
-    price: 3500,
+    price: 8000,
     image: 'https://images.pexels.com/photos/1059943/pexels-photo-1059943.jpeg',
     category: 'kentucky',
     description: {
-      en: 'Spicy chicken wings with buffalo sauce',
-      ar: 'أجنحة دجاج حارة مع صلصة البافالو',
-      ckb: 'باڵی مریشكی تیژ لەگەڵ سۆسی بافالۆ'
+      en: 'Spicy chicken wings with sauce',
+      ar: 'أجنحة دجاج حارة مع صلصة',
+      ckb: 'باڵی مریشكی تیژ لەگەڵ سۆس'
     }
   },
 
