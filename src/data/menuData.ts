@@ -54,7 +54,7 @@ export const categories: MenuCategory[] = [
     name: {
       en: 'Kentucky',
       ar: 'كنتاكي',
-      ckb: 'کەنتاکی'
+      ckb: 'کینتاکی'
     }
   },
   {
@@ -152,7 +152,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Tender chicken pieces with herbs and spices on crispy pizza base',
       ar: 'قطع دجاج طرية مع الأعشاب والتوابل على قاعدة بيتزا مقرمشة',
-      ckb: 'پارچەی مریشكی نەرم لەگەڵ گیا و بەهارات لەسەر بنکەی پیتزای ترخ'
+      ckb: 'پارچەی مریشكی نەرم لەگەڵ گیا و بەهارات لەسەر بنکەی پیتزای تر'
     }
   },
   {
@@ -186,7 +186,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Fresh vegetables and herbs on our signature pizza base',
       ar: 'خضروات طازجة وأعشاب على قاعدة البيتزا المميزة',
-      ckb: 'سەوزە و گیای تازە لەسەر بنکەی پیتزای تایبەتمان'
+      ckb: 'سەوزە و گیای تازە لەسەر بنەمای پیتزای تایبەتمان'
     }
   },
   {
@@ -305,7 +305,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Juicy beef patty with cheese, lettuce, and tomato',
       ar: 'قرص لحم عصير مع الجبن والخس والطماطم',
-      ckb: 'پەرچەی گۆشتی ئاوەدار لەگەڵ پەنیر و کاهو و تەماتە'
+      ckb: 'پارچەی گۆشتی ئاودەر لەگەڵ پەنیر و کاهو و تەماتە'
     }
   },
   {
@@ -321,7 +321,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Crispy chicken breast with fresh vegetables',
       ar: 'صدر دجاج مقرمش مع خضروات طازجة',
-      ckb: 'سنگی مریشكی ترخ لەگەڵ سەوزەی تازە'
+      ckb: 'سنگی مریشكی کریسپی لەگەڵ سەوزەی تازە'
     }
   },
   {
@@ -337,7 +337,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Extra crispy chicken with special seasoning',
       ar: 'دجاج مقرمش إضافي مع التتبيل الخاص',
-      ckb: 'مریشكی زیادە ترخ لەگەڵ بەهاراتی تایبەت'
+      ckb: 'مریشكی زیادە کریسپی لەگەڵ بەهاراتی تایبەت'
     }
   },
   {
@@ -401,9 +401,9 @@ export const menuItems: MenuItem[] = [
     image: 'https://i.ibb.co/Ld8CVCM7/rizo.jpg',
     category: 'rizo',
     description: {
-      en: 'Crispy rice with chicken and special sauce',
-      ar: 'أرز مقرمش مع الدجاج والصلصة الخاصة',
-      ckb: 'برنجی ترخ لەگەڵ مریشك و سۆسی تایبەت'
+      en: 'Rice with chicken and special sauce',
+      ar: 'أرز مع الدجاج والصلصة الخاصة',
+      ckb: 'برنجی لەگەڵ مریشك و سۆسی تایبەت'
     }
   },
   {
@@ -417,9 +417,9 @@ export const menuItems: MenuItem[] = [
     image: 'https://i.ibb.co/Ld8CVCM7/rizo.jpg',
     category: 'rizo',
     description: {
-      en: 'Crispy rice with melted cheese and premium toppings',
-      ar: 'أرز مقرمش مع جبن ذائب وإضافات ممتازة',
-      ckb: 'برنجی ترخ لەگەڵ پەنیری تواوە و زیادکراوی باش'
+      en: 'Rice with melted cheese and premium toppings',
+      ar: 'أرز مع جبن ذائب وإضافات ممتازة',
+      ckb: 'برنج لەگەڵ پەنیری تواوە و زیادکراوی باش'
     }
   },
 
@@ -437,7 +437,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Tender meat wrapped in fresh bread with vegetables',
       ar: 'لحم طري ملفوف في خبز طازج مع الخضروات',
-      ckb: 'گۆشتی نەرم پێچراوە لە نانی تازە لەگەڵ سەوزەوات'
+      ckb: 'گۆشتی نەرمی پێچراوە لە نانی تازە لەگەڵ سەوزەوات'
     }
   },
   {
@@ -469,7 +469,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Extra crispy chicken with special spices',
       ar: 'دجاج مقرمش إضافي مع التوابل الخاصة',
-      ckb: 'مریشكی زیادە ترخ لەگەڵ بەهاراتی تایبەت'
+      ckb: 'مریشكی زیادە کریسپی لەگەڵ بەهاراتی تایبەت'
     }
   },
 
@@ -479,7 +479,7 @@ export const menuItems: MenuItem[] = [
     name: {
       en: 'Kentucky 4 pieces',
       ar: '٤ قطع كنتاكي',
-      ckb: '٤ پارچە کەنتاکی'
+      ckb: '٤ پارچە کینتاکی'
     },
     price: 6000,
     image: 'https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg',
@@ -487,7 +487,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Crispy fried chicken with secret blend of herbs and spices',
       ar: 'دجاج مقلي مقرمش مع خلطة سرية من الأعشاب والتوابل',
-      ckb: 'مریشكی سوراوی ترخ لەگەڵ تێكەڵەی نهێنی گیا و بەهارات'
+      ckb: 'مریشكی سورکراوەی کریسپی لەگەڵ تێكەڵەی نهێنی گیا و بەهارات'
     }
   },
   {
@@ -495,15 +495,15 @@ export const menuItems: MenuItem[] = [
     name: {
       en: 'Kentucky 6 pieces',
       ar: '٦ قطع كنتاكي',
-      ckb: '٦ پارچە کەنتاکی'
+      ckb: '٦ پارچە کینتاکی'
     },
     price: 8000,
     image: 'https://images.pexels.com/photos/1059943/pexels-photo-1059943.jpeg',
     category: 'kentucky',
     description: {
-      en: 'Spicy chicken wings with sauce',
-      ar: 'أجنحة دجاج حارة مع صلصة',
-      ckb: 'باڵی مریشكی تیژ لەگەڵ سۆس'
+      en: 'Crispy fried chicken with secret blend of herbs and spices',
+      ar: 'دجاج مقلي مقرمش مع خلطة سرية من الأعشاب والتوابل',
+      ckb: 'مریشكی سورکراوەی کریسپی لەگەڵ تێكەڵەی نهێنی گیا و بەهارات'
     }
   },
 
@@ -511,27 +511,27 @@ export const menuItems: MenuItem[] = [
   {
     id: 'spaghetti-bolognese',
     name: {
-      en: 'Spaghetti Bolognese',
-      ar: 'سباغيتي بولونيز',
-      ckb: 'سپاگێتی بۆلۆنیز'
+      en: 'Red Spaghetti',
+      ar: 'سباغيتي احمر',
+      ckb: 'سپاگێتی سۆر'
     },
-    price: 4500,
+    price: 5000,
     image: 'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg',
     category: 'spaghetti',
     description: {
       en: 'Classic Italian pasta with rich meat sauce',
       ar: 'معكرونة إيطالية كلاسيكية مع صلصة اللحم الغنية',
-      ckb: 'پاستای ئیتالی کلاسیکی لەگەڵ سۆسی گۆشتی دەوڵەمەند'
+      ckb: 'پاستای ئیتالی کلاسیکی لەگەڵ سۆسی گۆشتی تایبەت'
     }
   },
   {
     id: 'spaghetti-carbonara',
     name: {
-      en: 'Spaghetti Carbonara',
-      ar: 'سباغيتي كاربونارا',
-      ckb: 'سپاگێتی کاربۆنارا'
+      en: ' White Spaghetti',
+      ar: 'سباغيتي بيضاء',
+      ckb: 'سپاگێتی سپی'
     },
-    price: 4000,
+    price: 5000,
     image: 'https://images.pexels.com/photos/4518843/pexels-photo-4518843.jpeg',
     category: 'spaghetti',
     description: {
@@ -555,7 +555,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Golden crispy french fries',
       ar: 'بطاطس مقلية ذهبية مقرمشة',
-      ckb: 'پەتاتەی سوراوی زەڕین و ترخ'
+      ckb: 'پەتاتەی سورکراوەی زەڕین و تر'
     }
   },
   {
@@ -585,9 +585,9 @@ export const menuItems: MenuItem[] = [
     image: 'https://i.ibb.co/FkXf5vWK/cheese-fries.jpg',
     category: 'sandwichfries',
     description: {
-      en: 'Crispy fries topped with melted cheese',
-      ar: 'بطاطس مقرمشة مغطاة بالجبن الذائب',
-      ckb: 'پەتاتەی ترخ بە پەنیری تواوە لەسەرەوە'
+      en: 'Fries topped with melted cheese',
+      ar: 'بطاطس مغطاة بالجبن الذائب',
+      ckb: 'پەتاتەی بە پەنیری تواوە لە بەشی سەرەوە'
     }
   },
 
@@ -619,9 +619,9 @@ export const menuItems: MenuItem[] = [
     image: 'https://i.ibb.co/Kp2p3pPK/pepsi.jpg',
     category: 'drinks',
     description: {
-      en: 'Refreshing cola drink',
-      ar: 'مشروب كولا منعش',
-      ckb: 'خواردنەوەی کۆلای سەرینکەرەوە'
+      en: 'Refreshing pepsi drink',
+      ar: 'مشروب پیپسی منعش',
+      ckb: 'خواردنەوەی پێپسی'
     }
   },
   {
@@ -637,7 +637,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Traditional yogurt drink',
       ar: 'مشروب اللبن التقليدي',
-      ckb: 'خواردنەوەی ماستی دێرین'
+      ckb: 'خواردنەوەی ماستی خۆماڵی'
     }
   },
   {
@@ -653,7 +653,7 @@ export const menuItems: MenuItem[] = [
     description: {
       en: 'Hot traditional tea',
       ar: 'شاي تقليدي ساخن',
-      ckb: 'چای دێرینی گەرم'
+      ckb: 'چای ئاسایی گەرم'
     }
   }
 ];
