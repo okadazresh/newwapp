@@ -584,13 +584,13 @@ export const menuItems: MenuItem[] = [
       ckb: "فینگەری سادە",
     },
     smallPrice: 1500,
-    largePrice: 2000,
+    largePrice: 3000,
     image: "https://i.ibb.co/Gv0HjHyN/fries.jpg",
     category: "sandwichfries",
     description: {
       en: "Golden crispy french fries",
       ar: "بطاطس مقلية ذهبية مقرمشة",
-      ckb: "پەتاتەی سورکراوەی زەڕین و تر",
+      ckb: "پەتاتەی سورکراوەی زێڕین و مخرمش",
     },
   },
   {
